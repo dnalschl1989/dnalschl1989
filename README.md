@@ -23,7 +23,3 @@ SQL( BigQuery/Impala ) · Python · Experimentation · Reporting
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
 
 ---
-
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnalschl1989&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnalschl1989&layout=compact)
