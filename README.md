@@ -43,15 +43,12 @@ SQL (BigQuery/Impala) · Python · Experimentation · Reporting
 - **dashboard-notes (planned)**  
   KPI frameworks & reporting patterns (Tableau-ready metrics)
 
-> “planned”는 레포가 아직 없어도 괜찮음.  
-> 실제로 만들면 pinned를 3~6개로 확장하면서 프로필이 훨씬 풍부해짐.
-
 ---
 
 ## 🧰 What I keep in this GitHub
 - SQL patterns (BigQuery/Impala): joins, window functions, sessionization, cohort, retention, KPI tables
 - Python utilities: pandas EDA, metric validation, quick plots, experiment analysis helpers
-- Documentation-first: README 중심으로 “왜 이렇게 측정했는지”까지 남기는 스타일
+- Documentation-first: README 중심으로 “왜 이렇게 측정했는지”까지
 
 ---
 
