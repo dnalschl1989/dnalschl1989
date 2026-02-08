@@ -1,16 +1,29 @@
-## Hi there 👋
+# minU (Data Analyst / CRM & Growth)
 
-<!--
-**dnalschl1989/dnalschl1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CRM · Churn/Retention · Customer Analytics**  
+SQL( BigQuery/Impala ) · Python · Experimentation · Reporting
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- Customer segmentation / churn drivers / retention tactics
+- Campaign measurement & uplift / A/B test design
+- Data pipelines & reusable analytics code
+
+## Featured
+- 📦 **analytics-code-archive**: SQL & Python snippets for CRM/analytics
+- 🧪 **experiment-toolkit**: A/B test & uplift templates (planned)
+- 📊 **dashboard-notes**: KPI frameworks & reporting patterns (planned)
+
+---
+
+## Tech
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=databricks&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-000000?style=flat&logo=googlecloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+
+---
+
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnalschl1989&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnalschl1989&layout=compact)
