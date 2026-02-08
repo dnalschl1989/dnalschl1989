@@ -1,4 +1,4 @@
-# minU (Data Analyst / CRM & Growth)
+# Data Analyst / CRM & Growth
 
 **CRM · Churn/Retention · Customer Analytics**  
 SQL( BigQuery/Impala ) · Python · Experimentation · Reporting
