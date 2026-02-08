@@ -1,3 +1,4 @@
+![banner](https://YOUR_IMAGE_URL_HERE)
 # Data Analyst / CRM & Growth
 
 **CRM · Churn/Retention · Customer Analytics**  
